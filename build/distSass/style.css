@@ -17,7 +17,7 @@ main {
 }
 main .container {
   width: 350px;
-  height: 600px;
+  height: 500px;
   overflow: hidden;
   margin: 50px auto;
   border-radius: 10px;
