@@ -17,7 +17,7 @@ main {
 }
 main .container {
   width: 350px;
-  height: 80vh;
+  height: 600px;
   overflow: hidden;
   margin: 50px auto;
   border-radius: 10px;
