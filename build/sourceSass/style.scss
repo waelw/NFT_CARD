@@ -49,7 +49,7 @@ main{
                 top : 42%;
 
             }
-            &:hover
+            &:hover , &:active 
             {
                 .hover{
                     opacity: 0.5;
@@ -78,7 +78,7 @@ main{
                 font-weight: 600;
                 margin-bottom: 20px;
                 transition: color 0.8s ease;
-                &:hover{
+                &:hover,&:active{
                     color : aqua
                 }
             }
@@ -140,7 +140,7 @@ main{
                 color : white;
                 cursor: pointer;
                 transition: color 0.8s ease;
-                &:hover{
+                &:hover , &:active{
                     color : aqua
                 }
             }
